@@ -658,7 +658,7 @@ section {
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
-  padding: 80px 20px;
+  padding: 50px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
 }
@@ -707,6 +707,12 @@ section {
   border-color: #fff;
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   transform: translateY(-10px);
+}
+
+.services .icon-box .btn {
+  margin-top: 2rem;
+  background-color: #ffd584;
+  border-color: #ffd584;
 }
 
 /*--------------------------------------------------------------
